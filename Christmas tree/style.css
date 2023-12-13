@@ -1,0 +1,71 @@
+ #tree {
+  position: relative;
+  bottom: -200px;
+  left: 35%;
+ }
+ 
+ #btngift1 {
+  position: relative;
+  top: 185px;
+  left: -50px;
+  height:70px;
+  width:100px;
+  opacity: 0;
+}
+#gift1 {
+  position: relative;
+  top: 240px;
+  left: 150px;
+}
+#gift2 {
+  position: relative;
+  top: 240px;
+  left: -80px;
+}
+#btngift2 {
+  position: relative;
+  top: 190px;
+  left: -220px;
+  height:60px;
+  width:90px;
+  opacity: 0;
+}
+#gift3 {
+  position: relative;
+  top: 250px;
+  left: -240px;
+}
+#btngift3 {
+  position: relative;
+  top: 190px;
+  left: -360px;
+  height:70px;
+  width:100px;
+  opacity: 0;
+}
+#gift4 {
+  position: relative;
+  top: 250px;
+  left: -540px;
+}
+#btngift4 {
+  position: relative;
+  top: 200px;
+  left: -650px;
+  height:70px;
+  width:70px;
+  opacity: 0;
+}
+#gift5 {
+  position: relative;
+  top: 250px;
+  left: -600px;
+}
+#btngift5 {
+  position: relative;
+  top: 190px;
+  left: -720px;
+  height:80px;
+  width:80px;
+  opacity: 0;
+}
